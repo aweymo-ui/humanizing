@@ -2,10 +2,23 @@
 # front matter
 ---
 
-$base-font-family:Playfair;
+body {
+  font-family: 'Montserrat', sans-serif; 
+  color: #212121;
+  font-size: 0.95rem; 
+}
+
+/* Set Playfair as the default font for all header text */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair', serif;
+}
+
+body {
+  background-color: #F0F8FF;
+}
 
 // set color for footer nav buttons (optional!)
-$nav-pills: #000000;
+$nav-pills: #005bc5;
 
 // Tweak body text and link color (optional!)
 $text-color: #000000 !default;
