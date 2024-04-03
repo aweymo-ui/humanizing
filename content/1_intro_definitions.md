@@ -7,6 +7,8 @@ nav: Intro
 
 -------------
 
+{% include figure.html img="cb_interface - 01.gif" alt="A gif file walkthrough of the University of Idaho's Digital Collections page and CollectionBuilder functionalities" caption="Walkthrough of the University of Idaho's Digital Collections page and CollectionBuilder functionalities" %}
+
 ## CollectionBuilder
 
 The platform we host our collections on at the U of I is called [CollectionBuilder](https://collectionbuilder.github.io/),  an “open source framework for creating digital collections and exhibit websites that are driven by metadata and modern static web technology”. This is also the platform where we host our Taylor Wilderness Research Station Archive collection, which you all can visit at the [address on slide](https://thecdil.github.io/taylor-archive) or find the link at the top of my exhibits section on [my site](https://aweymo.github.io/base).
