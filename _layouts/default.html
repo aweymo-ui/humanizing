@@ -1,38 +1,24 @@
 <!DOCTYPE html>
 <html lang="en" class="h-100">
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
   {% include template/head.html %}
+  </head>
 
-  <!-- Include Magnific Popup CSS -->
-  <link rel="stylesheet" href="/assets/magnific-popup.css">
-
-</head>
-
-<body class="d-flex flex-column h-100">
-  <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
-  <header>
+  <body class="d-flex flex-column h-100">
+    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+    <header>
     {% include template/top-nav.html %}
-  </header>
+    </header>
 
-  <main id="maincontent" role="main" aria-label="Content" class="flex-shrink-0">
-    {{ content }}
-  </main>
+    <main id="maincontent" role="main" aria-label="Content" class="flex-shrink-0">
+      
+      {{ content }}
+      
+    </main>
 
-  {% include template/footer.html %}
-  {% include template/foot.html %}
+    {% include template/footer.html %}
+    {% include template/foot.html %}
 
-  <!-- Include jQuery (required by Magnific Popup) -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </body>
 
-  <!-- Include Magnific Popup JavaScript -->
-  <script src="/assets/jquery.magnific-popup.min.js"></script>
-
-  <!-- Initialize Magnific Popup -->
-  <script>
-    $(document).ready(function() {
-      $('.image-link').magnificPopup({type:'image'});
-    });
-  </script>
-
-</body>
 </html>
