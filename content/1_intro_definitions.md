@@ -8,7 +8,7 @@ gallery: true
 
 -------------
 
-{% include gallery-figure.html img="cb_interface - 01.gif" title="Walkthrough of the University of Idaho's Digital Collections page and CollectionBuilder functionalities" alt="Alt: A gif file walkthrough of the University of Idaho's Digital Collections page and CollectionBuilder functionalities" caption="Walkthrough of the University of Idaho's Digital Collections page and CollectionBuilder functionalities" %}
+{% include gallery-figure.html img="cb_interface - 01.gif" title="Walkthrough of the University of Idaho's Digital Collections page and CollectionBuilder functionalities" alt="A gif file walkthrough of the University of Idaho's Digital Collections page and CollectionBuilder functionalities" caption="Walkthrough of the University of Idaho's Digital Collections page and CollectionBuilder functionalities" %}
 
 ## CollectionBuilder
 
