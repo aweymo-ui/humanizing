@@ -8,7 +8,7 @@ gallery: true
 
 * [slides](https://indd.adobe.com/view/ceb21830-684e-43f7-bc07-621586bac8db)
 
-* [test site with functioning elements](https://www.lib.uidaho.edu/digital/taylor-archive/)
+* [site (in development)](https://www.lib.uidaho.edu/digital/taylor-archive/)
 
 {% include toc.html %}
 
