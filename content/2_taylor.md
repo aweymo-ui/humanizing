@@ -18,7 +18,9 @@ gallery: true
 
 Under the guidance of Devin Becker, Associate Dean Research and Instruction for the library, the goal of this project was to create a collection combining these two resources which would not only give access to all of the scientific research that came out of the station but also provide interpretive material that would help visitors better understand the historic, human and geographic context of the institution.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="pack_study.jpeg" alt="Cover of a scientific document reading The Pack Creek Visitor Study Preliminary Report, with an illustration of a bear with a fish in it's mouth." caption="The Pack Creek Visitor Study Preliminary Report, an example of the types of natural science documents that make up the majority of the Taylor collection, courtesy U of I Special Collections (b06-WildernessRecreation31)" title="The Pack Creek Visitor Study Preliminary Report, an example of the types of natural science documents that make up the majority of the Taylor collection, courtesy U of I Special Collections (b06-WildernessRecreation31)" width="75%" %}
 
@@ -28,5 +30,7 @@ Under the guidance of Devin Becker, Associate Dean Research and Instruction for 
 
 Documenting this process has enabled us to assess our procedures at CDIL for collections that are part of our [digital collections](https://www.lib.uidaho.edu/digital/) but not formally accessioned. These collections offer the opportunity to highlight unique or at-risk community archive materials, while allowing these smaller institutions to maintain permanent stewardship but we are still developing best practices for the challenges these types of initiatives pose regarding processing and digital preservation.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 

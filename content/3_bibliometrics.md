@@ -8,7 +8,9 @@ gallery: true
 
 Using [Web of Science](https://www.webofscience.com/wos/woscc/basic-search), I was faced with my first question around balancing the validity and the sufficiency of data that you often encounter with digital scholarship projects. In this case, I found that searching for specific names of the scientific papers in Web of Science wasn’t yielding many results – mainly due to Web of Science’s data focusing heavily towards papers published in the late 90s onward, with the majority of the Taylor archive papers published in the 70s and 80s largely absent.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="taylor.jpg" alt="Group of six standing in front of the Taylor Wilderness Research Station wearing clothes indicative of the late 1970s or early 1980s." caption="Arlow Lewis, the caretaker of Taylor Ranch for several years, far left with glasses. Kneeling on left is Jim Bennett, then a PhD student working on bighorn sheep. Carol Bennett is in the yellow top, courtesy U of I Special Collections (DSC_0360)" title="Arlow Lewis, the caretaker of Taylor Ranch for several years, far left with glasses. Kneeling on left is Jim Bennett, then a PhD student working on bighorn sheep. Carol Bennett is in the yellow top, courtesy U of I Special Collections (DSC_0360)" width="100%" %}
 
@@ -26,7 +28,9 @@ This led me to consider some questions:
 
 With this in mind, I decided to zoom out and look at authors from U of I who were simply present in the archive, rather than specific titles.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 ## Network Visualization
 
@@ -42,10 +46,14 @@ I wanted to analyze:
 
 * [fields of interest](https://www.lib.uidaho.edu/digital/taylor-archive/keywords.html) over time. 
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 Once these three visualizations were completed, further customization was done adjusting node color to represent scientific discipline, size to represent the number of times the work has been cited, and arrangement according to when they were published, etc. Selecting a node brings up a pane on the lower right hand corner of the screen which reveals more details on the title and, if available, creates a link to the research paper itself.
 
 These visualizations were then embedded into our CollectionBuilder site using the [VOS-Viewer Online](https://github.com/neesjanvaneck/VOSviewer-Online) function. While they do take a short while to process the JSON data on loading, the bibliometrics add a colorful and interactive element that reduces a daunting amount of scholarly work into a single visualization.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>

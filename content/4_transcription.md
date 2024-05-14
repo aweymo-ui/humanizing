@@ -8,7 +8,9 @@ gallery: true
 
 The problem was that this amount of material would generally take student workers about two semesters to complete with the institution’s standard transcription methods. Building off of my previous work with the Washington State digital encyclopedia [HistoryLink](https://historylink.org/), I experimented with a workflow implementing [Adobe Premiere’s transcription tools](https://helpx.adobe.com/premiere-pro/using/speech-to-text.html), which excelled in identifying different speakers, was more accurate and could be exported in almost the exact CSV format we needed for OHD. The software also has the advantage of being able to utilize a variety of different [language packs](https://helpx.adobe.com/premiere-pro/using/speech-to-text.html), which we recently utilized for a Hispanic oral history collection, successfully recognizing speakers frequently jumping from Spanish to English.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="DH_Lecture_202411.jpg" alt="Visualization of the workflow with each tool, five minutes to download, ten to process in Premiere, five minutes to format in Google Sheets and 45 minutes to copy edit in VLC." caption="Visualization of Workflow" title="Visualization of Workflow" width="100%" %}
 
@@ -16,7 +18,9 @@ The problem was that this amount of material would generally take student worker
 
 **After testing a few approaches**, I was able to find a method that could transcribe and an hour and a half long video in around an hour; five minutes to download, ten minutes to process in Premiere, five minutes to format the CSV in Google Sheets and, playing at 2x speed, proof the entire recording for errors in 45 minutes. This proofing and editing can be done ergonomically within Premier’s playback interface or directly into the transcript CSV in Visual Studio Code depending on the severity of the edits needed. In the case of these fifteen videos, which were high fidelity (though featuring some tricky idaho accents) I’d estimate around a 98% accuracy in the Premier transcription.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="voyant.png" alt="Voyant interface with the distinctive words category mentioned in the tagging process." caption="Voyant interface with the uncleaned language and distinctive words category mentioned in the tagging process" title="Voyant interface with the uncleaned language and distinctive words category mentioned in the tagging process" width="100%" %}
 
@@ -32,4 +36,6 @@ Another strength of OHD is the tagging capability, where threads can be woven th
 
 The top associated words and their corresponding tags are then added to a Google Sheet, which is connected to the CSV of the transcript through App Scripts, auto-filling the tags next to their corresponding text. Hopefully, this will take care of the heavy lifting for student workers copy editing this material, as well as increase the accuracy of the tagging and ensure a controlled vocabulary.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
