@@ -18,7 +18,7 @@ An important note for this conference and how we as librarians might approach pr
 
 ## Google Earth Studios
 
-**To help provide visitors to the collection with ‘a sense of place,’** as one of the interviewees describes it, I began working with [Google Earth Studios](https://www.google.com/earth/studio/faq/#:~:text=Earth%20Studio%20is%20a%20web,for%20still%20and%20animated%20content) to animate excerpts of the oral histories. The interface very closely resembles [AfterEffects](https://www.adobe.com/creativecloud/video/premiere-pro-vs-after-effects.html#:~:text=After%20Effects%20is%20renowned%20for,of%20titles%20and%20motion%20graphics), but in addition to the x y axis, there are also latitude and longitudinal data points and some very impressive time of day controls, which helped add context to one of the stories that took place over four days.
+**To help provide visitors to the collection with ‘a sense of place,’** as one of the interviewees describes it, I began working with [Google Earth Studios](https://www.google.com/earth/studio/faq/#:~:text=Earth%20Studio%20is%20a%20web,for%20still%20and%20animated%20content) to animate excerpts of the oral histories. The interface very closely resembles [AfterEffects](https://www.adobe.com/creativecloud/video/premiere-pro-vs-after-effects.html#:~:text=After%20Effects%20is%20renowned%20for,of%20titles%20and%20motion%20graphics), but in addition to the x y axis, there are also latitude and longitudinal data points and some very impressive chronological lighting controls, which helped add context to one of the stories that took place over four days.
 
 <p class="symbol">&#10042;</p>
 

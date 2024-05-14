@@ -28,6 +28,8 @@ Another strength of OHD is the tagging capability, where threads can be woven th
 
 **Normally, this type of text mining analysis would require some amount of “cleaning”** to remove all of the filler words from a document, but pulling from the “distinctive words” section of the summary can provide a similar snapshot. Copying this data from all fifteen transcriptions, I identified repeating themes, created a synonym list for those tags, such as wonder, profound, monumental, searched each document for these words, and added the appropriate tag into the column next to that dialogue in the transcript CSV. 
 
-I found this was an efficient way to identify connections I might not be able to if I were reading through the documents linearly. 
+**Since working on this project**, I've developed this process. This involved moving away from Voyant and building a text mining tool from scratch using Python. A base set of twenty tags (each with 50 associated words) span categories like migration, education, and labor which can be supplemented with new categories depending on the oral history collection. The tool then identifies the associated words across all oral history transcripts. 
+
+The top associated words and their corresponding tags are then added to a Google Sheet, which is connected to the CSV of the transcript through App Scripts, auto-filling the tags next to their corresponding text. Hopefully, this will take care of the heavy lifting for student workers copy editing this material, as well as increase the accuracy of the tagging and ensure a controlled vocabulary.
 
 <p class="symbol">&#10042;</p>
