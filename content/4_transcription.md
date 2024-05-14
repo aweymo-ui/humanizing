@@ -20,7 +20,7 @@ The problem was that this amount of material would generally take student worker
 
 {% include gallery-figure.html img="voyant.png" alt="Voyant interface with the distinctive words category mentioned in the tagging process." caption="Voyant interface with the uncleaned language and distinctive words category mentioned in the tagging process" title="Voyant interface with the uncleaned language and distinctive words category mentioned in the tagging process" width="100%" %}
 
-## Tagging with Text Mining
+## Tagging Transcripts with Text Mining
 
 Another strength of OHD is the tagging capability, where threads can be woven through multiple interviews, revealing underlying themes. To efficiently identify tag material, I dropped all of the transcript CSVs into the freely available text mining engine [Voyant](https://voyant-tools.org/). 
 
