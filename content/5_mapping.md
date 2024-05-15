@@ -10,7 +10,7 @@ gallery: true
 If we aren’t studying the research station, why would we bother to take a picture of it?
 </blockquote>
 
-An important note for this conference and how we as librarians might approach presenting natural science research, being mindful to provide broader context for the often magnified scope of the work.
+This feels like an important note for this conference and how we as librarians approach presenting natural science research, to be mindful in provide broader context to the often magnified scope of the work.
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
